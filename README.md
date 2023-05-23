@@ -2,7 +2,7 @@
 
 Today I'll be completeing a CTF on THM as continued practice and skill building.
 
-The scenario: So I work for an MSSP and I received multiple alerts that I have to triage to confirm if it's a true positive or negative. I will have to investigagte PCAPs for the IOC's. They gave us Wireshark, Brim, and Network Miner for our investigation.
+The scenario: So I work for an MSSP and I received multiple alerts that I have to triage to confirm if it's a true positive or negative. I will have to investigate PCAPs for the IOC's. They gave us Wireshark, Brim, and Network Miner for our investigation.
 
 We will first seek out the alert signature of a possible C2 by utilizing this search query in Brim:
 
